@@ -18,19 +18,7 @@ This project demonstrates core banking functionalities such as deposits, withdra
 
 ---
 
-## 🖼 Preview
-![App Screenshot](./screenshot.png)
-
----
-
 ## 🛠 Tech Stack
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6)**
-
----
-
-## 📦 Setup & Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/mini-banking-app.git
